@@ -7,7 +7,7 @@ plugins {
 android {
     namespace = "com.example.praktikum_pemograman_mobile_kh001"
     compileSdk = flutter.compileSdkVersion
-    ndkVersion = flutter.ndkVersion
+    ndkVersion = "30.0.16248370"
 
     compileOptions {
         sourceCompatibility = JavaVersion.VERSION_17
