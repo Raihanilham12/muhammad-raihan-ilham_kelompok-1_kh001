@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1087601421762",
+    "project_id": "pemmob-dae2c",
+    "storage_bucket": "pemmob-dae2c.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1087601421762:android:88eeda64f70cd4364f3a5b",
+        "android_client_info": {
+          "package_name": "com.example.praktikum_pemograman_mobile_kh001"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD7-etcCPVnW508lTVuJBtPrqMf7JPQXMU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
